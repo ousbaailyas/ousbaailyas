@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/ousbaailyas/Stats-Card/blob/master/Background.gif" alt=""></img>
+<img src="https://github.com/ousbaailyas/ousbaailyas/blob/master/Background.gif" alt=""></img>
 
 Here are some ideas to get you started:
 
