@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center"><img src="https://github.com/ousbaailyas/ousbaailyas/blob/master/Professionnel_Summary.png" alt=""></img> </h1>
+<h1 align="center"><img src="https://github.com/ousbaailyas/ousbaailyas/blob/master/Professionnel_Summary.png" height="150" width="600" alt=""></img> </h1>
 
 
 
