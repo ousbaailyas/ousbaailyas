@@ -10,7 +10,7 @@
 
 <h1 align="center"><img src="https://github.com/ousbaailyas/ousbaailyas/blob/master/Skills_and_tools_ST.png"  alt=""></img> </h1>
 
-<h1 align="center"><img src="https://github.com/ousbaailyas/ousbaailyas/blob/master/P%26SL.png"   height="180" width="900" alt=""></img> </h1>
+<h1 align="center"><img src="https://github.com/ousbaailyas/ousbaailyas/blob/master/P%26SL.png"   height="120" width="850" alt=""></img> </h1>
 
 <h1 align="center"><img src="https://github.com/ousbaailyas/ousbaailyas/blob/master/OS%26L.png"  alt=""></img> </h1>
 
