@@ -1,6 +1,6 @@
 <img src="https://github.com/ousbaailyas/ousbaailyas/blob/master/Background.gif" alt=""></img>
-<p align="center"> <img src="https://github.com/ousbaailyas/ousbaailyas/blob/master/SPACE.png" height="300" width="300" alt="" /> </p>
 
+<p align="center"> <img src="https://github.com/ousbaailyas/ousbaailyas/blob/master/SPACE.png" height="300" width="300" alt="" /> </p>
 
 <p align="center"> <img src="https://github.com/ousbaailyas/ousbaailyas/blob/master/Bio_1.png"  alt="" /> </p>
 
